@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: rgba(253, 244, 232, 0.76);
+}
+
+:root {
+    --blue: #3EA1DB;
+    --blue-dark: #574AE8;
+    --white: #FFF;
+  
+    --title: #313131;
+    --text: #B6B6B6;
+    
+    --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+}
+
+/* navegacao */
+
+.nav-container{
+    display: flex;
+    background-color: var(--blue);
+    flex-wrap: wrap;
+}
+
+.nav1{
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-basis: 960px;
+}
+
+.container-input{
+    background-color: #3EA1DB;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.form{
+    padding: 16px;
+    border-radius: 02px;
+    border: none;
+    background-color: #b6b6b6a2;
+    margin: 30px auto;
+    flex-basis: 960px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+/* meio do site */
+
+.content1{
+    display: flex;
+    max-width: 960px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.637);
+    margin: 30px auto;
+    padding: 20px;
+    line-height: 2em;
+    flex-wrap: wrap;
+}
+
+.content1 p{
+    font-size: 0.9em;
+    color: rgb(151, 141, 141);
+}
+
+.content1 h1{
+    font-weight: 400;
+}
+
+.content2{
+    display: flex;
+    max-width: 950px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.637);
+    margin: 30px auto;
+    padding: 20px;
+    line-height: 2em;
+    flex-wrap: wrap;
+}
+
+.content2 p{
+    font-size: 0.9em;
+    color: rgb(151, 141, 141);
+}
+
+.content2 h1{
+    font-weight: 400;
+}
+
+.content3{
+    display: flex;
+    max-width: 950px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.637);
+    margin: 30px auto;
+    padding: 20px;
+    line-height: 2em;
+    flex-wrap: wrap;
+}
+
+.content3 p{
+    font-size: 0.9em;
+    color: rgb(151, 141, 141);
+}
+
+.content3 h1{
+    font-weight: 400;
+}
+
+.content4{
+    display: flex;
+    max-width: 950px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.637);
+    margin: 30px auto;
+    padding: 20px;
+    line-height: 2em;
+    flex-wrap: wrap;
+}
+
+.content4 p{
+    font-size: 0.9em;
+    color: rgb(151, 141, 141);
+}
+
+.content4 h1{
+    font-weight: 400;
+}
