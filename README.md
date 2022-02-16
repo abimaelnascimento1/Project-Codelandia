@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](challengeCodelandia.png)
+![Design preview for the NFT preview card component coding challenge](desafio1-codelandia/challengeCodelandia.png)
 
 ## Projeto BLOG CODELÂNDIA. 👋
 
